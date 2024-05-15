@@ -2,10 +2,10 @@
 
 ## GROUP <add-group-name>
 
-- Member 1: <Dang Thi Hoe>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+- Member 1: Dang Thi Hoe
+- Member 2: Nguyen Dang Khoa
+- Member 3: Pham Hong Ngoc
+- Member 4: Tran Le Gia Bao
 
 ## Starting server
 
